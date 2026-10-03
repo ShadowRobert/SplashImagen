@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Textos de nuestra aplicación -->
+    <string name="app_name">Splash Imagen</string>
+    <string name="titulo_app">Aplicación iniciada</string>
+    <string name="mensaje_app">La imagen del SplashScreen fue configurada correctamente.</string>
+
+    <!-- Textos que necesita la plantilla de Android Studio -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+</resources>
